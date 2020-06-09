@@ -94,11 +94,11 @@ WSGI_APPLICATION = 'newsblog.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'newsblog',
         'USER': 'postgres',
         'PASSWORD':'postgres',
-        'HOST' : 'db',
+        'HOST' : 'localhost',
         'PORT' : '5432',
     }
 }
