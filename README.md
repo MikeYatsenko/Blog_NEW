@@ -2,12 +2,19 @@
 Please install the following using pip:
 
 django
+
 django rest-framework
+
 django-rest-auth
+
 django-allauth
+
 gjango-registration
+
 psycopg2
+
 crispy-forms
+
 black
 
 
@@ -33,7 +40,7 @@ Enter commands in the terminal to run app
 $ python manage.py makemigrations
 $ python manage.py migrate
 ```
-You need to create super user to have an access to the admin panel, and after that in admin panel (localhost/admin) you also need to create User to fill up a URL data 
+You need to create super user to have an access to the admin panel, and after that in admin panel (localhost/admin) you also need to create User 
 ```
 $ python manage.py createsuperuser
 $ python manage.py runserver
