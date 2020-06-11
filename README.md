@@ -47,7 +47,9 @@ $ python manage.py runserver
 ```
 ### Access to API : http://127.0.0.1:8000/api.
 
-Heroku: mikeyatsenkoblog
+Heroku: https://yatsenkooo.herokuapp.com/
+https://yatsenkooo.herokuapp.com/admin - please log in as a supeuser and create user
+https://yatsenkooo.herokuapp.com/api - access to api
 
 
 
