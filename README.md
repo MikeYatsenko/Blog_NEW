@@ -51,9 +51,13 @@ Access to each post and comment is allowed through the slug
 
 Heroku: https://yatsenkooo.herokuapp.com/
 https://yatsenkooo.herokuapp.com/admin - please log in as a supeuser and create user
+
 credits to ADMIN:
+
 name:admin
+
 password:123
+
 https://yatsenkooo.herokuapp.com/api - access to api
 
 
