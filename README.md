@@ -47,6 +47,8 @@ $ python manage.py runserver
 ```
 ### Access to API : http://127.0.0.1:8000/api.
 
+Access to each post and comment is allowed through the slug
+
 Heroku: https://yatsenkooo.herokuapp.com/
 https://yatsenkooo.herokuapp.com/admin - please log in as a supeuser and create user
 https://yatsenkooo.herokuapp.com/api - access to api
