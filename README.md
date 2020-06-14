@@ -15,6 +15,8 @@ psycopg2
 
 crispy-forms
 
+gunicorn
+
 black
 
 
