@@ -17,6 +17,8 @@ crispy-forms
 
 gunicorn
 
+whitenoise
+
 black
 
 
